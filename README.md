@@ -44,7 +44,8 @@ Servos adjust panel orientation based on which side receives more light.
 
 ## 🖼️ Circuit Diagram
 
-📂 Put your image inside `assets/diagram.png`  
+![Diagram](https://github.com/abdellahaarab/-Dual-Axis-Solar-Tracker-using-Arduino/blob/main/assets/solar_sun_tracker.png?raw=true)
+
 📌 Recommended layout:
 
 ```
